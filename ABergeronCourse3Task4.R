@@ -74,7 +74,7 @@ inspect(sort(FinalRules, by = "support"))
 # use is.redundant(RulesName)
 is.redundant(FinalRules)
 is.redundant(Rules13)
-#if ou do have redundant rules, refer to this example with Titanic dataset
+#if you do have redundant rules, refer to this example with Titanic dataset
 #https://www.rdatamining.com/examples/association-rules
 #plotting to visualize
 #plot() will display rules as a scatter box as the default
