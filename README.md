@@ -31,8 +31,8 @@ code blocks for commands
 
 Contributor name and contact info
 
-ex. Ashley Bergeron  
-ex. ashleykbergeron@gmail.com
+Ashley Bergeron  
+ashleykbergeron@gmail.com
 
 ## Acknowledgments
 * [Gentle Introduction to Market Basket Analysis](https://s3.amazonaws.com/gbstool/courses/1096/docs/A%20Gentle%20Introduction%20on%20Market%20Basket%20Analysis%20and%20Association%20Rules.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230103T204853Z&X-Amz-SignedHeaders=host&X-Amz-Expires=36900&X-Amz-Credential=AKIAJBIZLMJQ2O6DKIAA%2F20230103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=305cd1f526a4adb09aad4ed0d5561b3416f8f4776f5e136a1d98648bddccc210)
